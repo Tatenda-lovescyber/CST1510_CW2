@@ -1,0 +1,100 @@
+name,id,stargazers_count,description,forks_count,size,node_id,created_at,updated_at
+getpython3.com,2474719,46,getpython3.com page and resources.,16,400,MDEwOlJlcG9zaXRvcnkyNDc0NzE5,2011-09-28T12:30:52Z,2026-09-07T02:12:33Z
+community-starter-kit,3698918,52,Collection of resources for Python community organizers,24,225,MDEwOlJlcG9zaXRvcnkzNjk4OTE4,2012-03-12T19:23:37Z,2026-09-09T01:53:00Z
+psf-docs,4241382,23,PSF Docs,10,182,MDEwOlJlcG9zaXRvcnk0MjQxMzgy,2012-05-06T14:19:20Z,2026-08-27T10:32:30Z
+historic-python-materials,4299040,24,Contains some old pages from python.org,15,20969,MDEwOlJlcG9zaXRvcnk0Mjk5MDQw,2012-05-11T16:15:38Z,2026-10-05T07:29:43Z
+psf-chef,4389262,47,Chef configuration and cookbooks for the Python Software Foundation,35,8943,MDEwOlJlcG9zaXRvcnk0Mzg5MjYy,2012-05-21T02:31:56Z,2026-08-27T10:32:28Z
+psfoutreach,5630360,8,PSF Outreach website,8,572,MDEwOlJlcG9zaXRvcnk1NjMwMzYw,2012-08-31T15:19:30Z,2026-08-27T10:32:32Z
+pythondotorg,6127047,1672,Source code for python.org,712,28184,MDEwOlJlcG9zaXRvcnk2MTI3MDQ3,2012-10-08T16:00:15Z,2026-11-24T02:49:37Z
+mypy,7053637,20739,Optional static typing for Python,3497,89783,MDEwOlJlcG9zaXRvcnk3MDUzNjM3,2012-12-07T13:30:23Z,2026-11-26T16:13:28Z
+raspberryio,7567351,229,Source code for raspberry.io,39,4649,MDEwOlJlcG9zaXRvcnk3NTY3MzUx,2013-01-11T21:29:18Z,2026-08-27T10:32:52Z
+pycon-code-of-conduct,8930173,118,pycon code of conduct,92,39,MDEwOlJlcG9zaXRvcnk4OTMwMTcz,2013-03-21T14:08:58Z,2026-11-03T12:50:59Z
+peps,13414105,5043,Python Enhancement Proposals,1825,48930,MDEwOlJlcG9zaXRvcnkxMzQxNDEwNQ==,2013-10-08T13:27:12Z,2026-11-25T04:57:54Z
+psf-salt,23242304,125,PSF infrastructure configuration,72,5879,MDEwOlJlcG9zaXRvcnkyMzI0MjMwNA==,2014-08-22T22:49:43Z,2026-11-09T17:13:05Z
+docsbuild-scripts,23553472,83,Scripts for building the documentation on docs.python.org,73,478,MDEwOlJlcG9zaXRvcnkyMzU1MzQ3Mg==,2014-09-01T19:29:17Z,2026-11-12T09:49:44Z
+planet,24216135,144,Configuration for Python planets,203,1297,MDEwOlJlcG9zaXRvcnkyNDIxNjEzNQ==,2014-09-19T04:26:25Z,2026-11-02T09:37:27Z
+typing,24604008,1787,Python static typing home. Hosts the documentation and a user help forum.,313,4367,MDEwOlJlcG9zaXRvcnkyNDYwNDAwOA==,2014-09-29T16:54:42Z,2026-11-25T14:33:44Z
+speed.python.org,28198936,15,,3,26,MDEwOlJlcG9zaXRvcnkyODE5ODkzNg==,2014-12-18T19:48:53Z,2026-08-27T10:32:54Z
+typeshed,31696383,5161,"Collection of library stubs for Python, with static types",2156,34525,MDEwOlJlcG9zaXRvcnkzMTY5NjM4Mw==,2015-03-05T04:51:28Z,2026-11-26T10:09:07Z
+asyncio,33739295,1082,asyncio historical repository,181,2225,MDEwOlJlcG9zaXRvcnkzMzczOTI5NQ==,2015-04-10T16:41:54Z,2026-11-25T05:05:03Z
+buildbot,40912239,8,Fork of BuildBot formerly running on buildbot.python.org,8,42115,MDEwOlJlcG9zaXRvcnk0MDkxMjIzOQ==,2015-08-17T16:56:20Z,2026-08-27T10:32:04Z
+psf-packages,43700638,9,Packages for the PSF infrastructure,5,7455,MDEwOlJlcG9zaXRvcnk0MzcwMDYzOA==,2015-10-05T17:13:37Z,2026-08-27T10:32:31Z
+typed_ast,51875828,234,Modified fork of CPython's ast module that parses `# type:` comments,54,1747,MDEwOlJlcG9zaXRvcnk1MTg3NTgyOA==,2016-02-16T22:40:09Z,2026-08-27T10:32:57Z
+the-knights-who-say-ni,54906742,86,CLA enforcement bot for Python organization projects,34,243,MDEwOlJlcG9zaXRvcnk1NDkwNjc0Mg==,2016-03-28T16:39:27Z,2026-09-18T23:32:31Z
+devinabox,58329029,19,Documentation and tools to help host a sprint on Python core development,9,54,MDEwOlJlcG9zaXRvcnk1ODMyOTAyOQ==,2016-05-08T20:03:52Z,2026-08-27T10:32:13Z
+pythontestdotnet,60299360,15,source of pythontest.net (resources used for Python test suite),12,6586,MDEwOlJlcG9zaXRvcnk2MDI5OTM2MA==,2016-06-02T21:42:55Z,2026-09-16T15:41:23Z
+pythonineducation.org,61229691,33,The pythonineducation.org website,28,10534,MDEwOlJlcG9zaXRvcnk2MTIyOTY5MQ==,2016-06-15T18:10:10Z,2026-08-27T10:32:51Z
+tlsproxy,61442459,10,,9,2,MDEwOlJlcG9zaXRvcnk2MTQ0MjQ1OQ==,2016-06-18T16:26:09Z,2026-08-27T10:32:56Z
+devguide,63972479,2114,The Python developer's guide,1096,3338,MDEwOlJlcG9zaXRvcnk2Mzk3MjQ3OQ==,2016-07-22T17:48:56Z,2026-11-26T09:54:19Z
+overload-sig,65913794,6,"Discussion about discussion overload, see https://mail.python.org/mm3/mailman3/lists/overload-sig@python.org/",4,1,MDEwOlJlcG9zaXRvcnk2NTkxMzc5NA==,2016-08-17T14:22:49Z,2026-08-27T10:32:25Z
+pyperformance,65949828,1047,Python Performance Benchmark Suite,215,9945,MDEwOlJlcG9zaXRvcnk2NTk0OTgyOA==,2016-08-17T23:43:22Z,2026-11-26T00:59:36Z
+release-tools,67442350,66,Scripts for making (C)Python releases,50,1449,MDEwOlJlcG9zaXRvcnk2NzQ0MjM1MA==,2016-09-05T18:25:11Z,2026-11-13T04:17:23Z
+core-workflow,76080865,103,Issue tracker for CPython's workflow,59,334,MDEwOlJlcG9zaXRvcnk3NjA4MDg2NQ==,2016-12-10T00:36:07Z,2026-11-18T17:04:14Z
+buildmaster-config,80488055,61,Configuration for buildbot.python.org,65,1063,MDEwOlJlcG9zaXRvcnk4MDQ4ODA1NQ==,2017-01-31T03:29:06Z,2026-11-12T15:56:11Z
+cpython,81598961,78470,The Python programming language,36533,920693,MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==,2017-02-10T19:23:51Z,2026-11-26T16:38:27Z
+docker-bpo,83239542,15,Docker image for bugs.python.org,16,29,MDEwOlJlcG9zaXRvcnk4MzIzOTU0Mg==,2017-02-26T20:47:20Z,2026-08-27T10:32:14Z
+bedevere,87574304,142,A bot to help identify missing information for CPython pull requests,70,555,MDEwOlJlcG9zaXRvcnk4NzU3NDMwNA==,2017-04-07T18:15:00Z,2026-11-20T11:30:19Z
+cpython-source-deps,92079817,31,Source for packages that the cpython build process depends on,50,198935,MDEwOlJlcG9zaXRvcnk5MjA3OTgxNw==,2017-05-22T17:20:29Z,2026-11-11T16:21:03Z
+cpython-bin-deps,92080048,31,Binaries that the cpython build process depends on,38,1423467,MDEwOlJlcG9zaXRvcnk5MjA4MDA0OA==,2017-05-22T17:22:58Z,2026-08-27T10:32:10Z
+python-docs-fr,92097535,355,Mirroir de https://git.afpy.org/AFPy/python-docs-fr,261,65303,MDEwOlJlcG9zaXRvcnk5MjA5NzUzNQ==,2017-05-22T20:40:58Z,2026-11-19T20:28:36Z
+python-docs-theme,93341818,90,Sphinx theme for Python documentation,84,398,MDEwOlJlcG9zaXRvcnk5MzM0MTgxOA==,2017-06-04T21:14:32Z,2026-11-04T21:24:32Z
+python-docs-hu,94006355,13,Hungarian Translation of the Python Documentation,9,56091,MDEwOlJlcG9zaXRvcnk5NDAwNjM1NQ==,2017-06-11T13:32:05Z,2026-08-27T10:32:39Z
+python-docs-ja,94006436,75,Japanese Translation of the Python Documentation,40,226615,MDEwOlJlcG9zaXRvcnk5NDAwNjQzNg==,2017-06-11T13:33:21Z,2026-11-12T00:49:36Z
+python-docs-bn-in,94006508,7,Bengali Translation of the Python Documentation,4,3844,MDEwOlJlcG9zaXRvcnk5NDAwNjUwOA==,2017-06-11T13:34:47Z,2026-10-21T02:54:12Z
+python-docs-pt-br,95158375,166,Brazilian Portuguese translation of the Python Documentation,45,256614,MDEwOlJlcG9zaXRvcnk5NTE1ODM3NQ==,2017-06-22T21:33:42Z,2026-11-07T22:29:41Z
+psf-infra-meta,95175803,12,Meta-repository for PSF backed or managed systems. Created mainly for the issue tracker :),8,2,MDEwOlJlcG9zaXRvcnk5NTE3NTgwMw==,2017-06-23T02:32:37Z,2026-08-27T10:32:30Z
+consul-operator,99449805,19,A kubernetes operator for consul,6,22,MDEwOlJlcG9zaXRvcnk5OTQ0OTgwNQ==,2017-08-05T21:57:14Z,2026-08-27T10:32:08Z
+redistributor-guide,100368452,9,Guidance & recommendations for anyone publishing their own binary builds of CPython,4,5,MDEwOlJlcG9zaXRvcnkxMDAzNjg0NTI=,2017-08-15T10:53:53Z,2026-08-27T10:32:53Z
+psf-community-resources,100623862,14,Short guides to PSF-related resources,6,9,MDEwOlJlcG9zaXRvcnkxMDA2MjM4NjI=,2017-08-17T16:27:10Z,2026-08-27T10:32:29Z
+miss-islington,102508556,117,🐍🍒⛏🤖 - A bot for backporting and merging CPython pull requests,47,482,MDEwOlJlcG9zaXRvcnkxMDI1MDg1NTY=,2017-09-05T17:06:04Z,2026-11-11T17:46:37Z
+bpo-builder,114343554,8,bugs.python.org builder image & other deployment artifacts,5,35,MDEwOlJlcG9zaXRvcnkxMTQzNDM1NTQ=,2017-12-15T08:00:38Z,2026-08-27T10:32:03Z
+python-docs-ko,117242222,78,Korean translation of the Python documentation,58,33967,MDEwOlJlcG9zaXRvcnkxMTcyNDIyMjI=,2018-01-12T13:07:00Z,2026-10-14T08:40:48Z
+python-dev-survey,127166423,12,Place for gathering feedback from the public on the Python Developers Survey,3,3,MDEwOlJlcG9zaXRvcnkxMjcxNjY0MjM=,2018-03-28T16:12:03Z,2026-08-27T10:32:35Z
+bugs.python.org,137490374,13,Meta-issue tracker for bugs.python.org,7,2,MDEwOlJlcG9zaXRvcnkxMzc0OTAzNzQ=,2018-06-15T13:23:47Z,2026-08-27T10:32:04Z
+python-docs-zh-tw,138458545,288,Traditional Chinese (zh-tw) translation of the Python Documentation,233,1643094,MDEwOlJlcG9zaXRvcnkxMzg0NTg1NDU=,2018-06-24T06:19:52Z,2026-11-22T22:10:19Z
+blurb_it,148399527,35,`blurb add` over the internet,25,1017,MDEwOlJlcG9zaXRvcnkxNDgzOTk1Mjc=,2018-09-12T00:53:09Z,2026-11-01T04:16:46Z
+python-docs-zh-cn,154145163,472,Simplified Chinese translation of the Python documentation,109,358586,MDEwOlJlcG9zaXRvcnkxNTQxNDUxNjM=,2018-10-22T13:03:51Z,2026-11-20T03:30:27Z
+mypy_extensions,165752308,157,Extensions for mypy,42,55,MDEwOlJlcG9zaXRvcnkxNjU3NTIzMDg=,2019-01-14T23:37:26Z,2026-11-15T07:46:19Z
+steering-council,170376737,183,Communications from the Steering Council,37,219,MDEwOlJlcG9zaXRvcnkxNzAzNzY3Mzc=,2019-02-12T19:18:46Z,2026-11-15T11:56:49Z
+codespeed,172050043,41,A fork of Codespeed that includes the instances run at https://speed.python.org/ and https://speed.pypy.org,24,3307,MDEwOlJlcG9zaXRvcnkxNzIwNTAwNDM=,2019-02-22T10:53:30Z,2026-11-11T00:01:59Z
+python-docs-it,182553592,16,Italian translation of the Python documentation.,14,6938,MDEwOlJlcG9zaXRvcnkxODI1NTM1OTI=,2019-04-21T15:55:34Z,2026-08-27T10:32:40Z
+python-docs-es,185224402,372,Spanish translation of the Python documentation.,418,47262,MDEwOlJlcG9zaXRvcnkxODUyMjQ0MDI=,2019-05-06T15:33:13Z,2026-11-19T21:23:08Z
+cherry-picker,189480743,66,🐍🍒⛏ Utility script for backporting/cherry-picking CPython changes from master into one of the maintenance branches.,54,371,MDEwOlJlcG9zaXRvcnkxODk0ODA3NDM=,2019-05-30T20:49:46Z,2026-11-12T15:23:01Z
+.github,189506228,15,Organization-wide GitHub settings,36,10,MDEwOlJlcG9zaXRvcnkxODk1MDYyMjg=,2019-05-31T01:27:21Z,2026-09-07T18:43:54Z
+python-docs-id,214049428,83,Terjemahan Bahasa Indonesia untuk Dokumentasi Python,32,35820,MDEwOlJlcG9zaXRvcnkyMTQwNDk0Mjg=,2019-10-10T00:18:41Z,2026-11-26T13:29:48Z
+python-docs-pl,227235970,60,Polskie tłumaczenie dokumentacji Pythona,18,112542,MDEwOlJlcG9zaXRvcnkyMjcyMzU5NzA=,2019-12-10T23:37:12Z,2026-11-20T10:47:27Z
+exceptiongroups,228462148,23,An early draft of a PEP around Exception Groups in Python,4,69,MDEwOlJlcG9zaXRvcnkyMjg0NjIxNDg=,2019-12-16T19:41:57Z,2026-08-27T10:32:17Z
+hugs.python.org,237821775,11,,4,7,MDEwOlJlcG9zaXRvcnkyMzc4MjE3NzU=,2020-02-02T19:09:38Z,2026-08-27T10:32:19Z
+tzdata,242158882,126,Python package wrapping the IANA time zone database,28,710,MDEwOlJlcG9zaXRvcnkyNDIxNTg4ODI=,2020-02-21T14:32:53Z,2026-11-24T09:09:19Z
+pythoncapi-compat,269418584,112,  The pythoncapi-compat project can be used to write a C extension supporting a wide range of Python versions with a single code base.,44,616,MDEwOlJlcG9zaXRvcnkyNjk0MTg1ODQ=,2020-06-04T17:09:06Z,2026-11-04T22:03:42Z
+core-sprint,285913947,18,Repo for Virtual Core Dev Sprint 2020,17,511,MDEwOlJlcG9zaXRvcnkyODU5MTM5NDc=,2020-08-07T20:19:04Z,2026-08-27T10:32:08Z
+importlib_resources,306147182,76,Backport of the importlib.resources module,56,1142,MDEwOlJlcG9zaXRvcnkzMDYxNDcxODI=,2020-10-21T21:02:58Z,2026-11-25T04:12:14Z
+importlib_metadata,306448340,144,Library to access metadata for Python packages,106,1802,MDEwOlJlcG9zaXRvcnkzMDY0NDgzNDA=,2020-10-22T20:13:11Z,2026-11-24T09:08:58Z
+pootle-python-org-backup,309193997,6,,6,20549,MDEwOlJlcG9zaXRvcnkzMDkxOTM5OTc=,2020-11-01T21:41:47Z,2026-08-27T10:32:27Z
+language-summit,329680286,9,Resources for the annual Python Language Summit,3,3,MDEwOlJlcG9zaXRvcnkzMjk2ODAyODY=,2021-01-14T17:01:30Z,2026-09-07T18:44:51Z
+docs-community,358684955,56,Community management for documentation contributors and the Docs Workgroup,30,2784,MDEwOlJlcG9zaXRvcnkzNTg2ODQ5NTU=,2021-04-16T18:19:40Z,2026-11-21T08:35:46Z
+discord-bot,389008456,25,Discord Bot for Core Devs Discord server,11,11,MDEwOlJlcG9zaXRvcnkzODkwMDg0NTY=,2021-07-24T05:21:05Z,2026-08-27T10:32:14Z
+python-docs-tr,439623558,128,Turkish Translation of the Python Documentation,51,10507,R_kgDOGjQfhg,2021-12-18T13:34:26Z,2026-10-12T09:06:41Z
+typing_extensions,494077289,598,Backported and experimental type hints for Python,158,2558,R_kgDOHXMFaQ,2022-05-19T13:12:25Z,2026-11-25T04:59:22Z
+python-docs-uk,504323168,33,Ukrainian translation of the Python Documentation,16,2068,R_kgDOHg9cYA,2022-06-16T22:26:58Z,2026-08-27T10:32:47Z
+bench_runner,656847333,10,Code for running pyperformance benchmarks on Github Action runners,13,3577,R_kgDOJyax5Q,2023-06-21T19:07:30Z,2026-11-16T18:40:36Z
+typing-council,724378571,57,Decisions by the Python Typing Council,4,16,R_kgDOKy0jyw,2023-11-28T00:34:08Z,2026-10-15T14:13:32Z
+python-docs-ru,735568182,21,Russian Translation of the Python Docs,7,42451,R_kgDOK9fhNg,2023-12-25T11:39:35Z,2026-11-03T12:45:57Z
+editorial-board,740726840,14,Communications of the Python Documentation Editorial Board,4,229,R_kgDOLCaYOA,2024-01-08T23:57:46Z,2026-11-12T15:47:23Z
+python-docs-el,772031619,30,Greek Translation of the Python Documentation,26,12569,R_kgDOLgREgw,2024-03-14T12:05:47Z,2026-08-27T10:32:36Z
+blurb,775007678,23,Command-line tool to manage CPython Misc/NEWS.d entries,17,312,R_kgDOLjGtvg,2024-03-20T15:41:45Z,2026-11-08T20:49:57Z
+webhook-mailer,819981950,4,GitHub Webhooks -> Email,5,43,R_kgDOMN_ufg,2024-06-25T15:03:10Z,2026-08-27T10:33:00Z
+psrt-ghsa-bot,821105577,7,Bot which adds the PSRT GitHub team and CVE IDs to GitHub Security Advisories,5,247,R_kgDOMPETqQ,2024-06-27T20:31:00Z,2026-11-05T16:18:49Z
+cpython-devcontainers,861901369,16,Repository for devcontainers of CPython,29,129,R_kgDOM1-SOQ,2024-09-23T17:42:22Z,2026-11-02T22:59:05Z
+python-docs-fa,930032802,107,Farsi (Persian) translation of the official Python documentation,20,66690,R_kgDON28sog,2025-02-10T00:01:14Z,2026-11-15T23:36:36Z
+python-docs-ro,942644792,3,O traducere în românește a documentației Python.,5,5143,R_kgDOOC-eOA,2025-03-04T12:45:13Z,2026-08-27T10:32:44Z
+pymanager,974364212,380,The Python Install Manager (for Windows),83,986,R_kgDOOhOeNA,2025-04-28T16:59:04Z,2026-11-25T23:08:27Z
+memory.python.org,1006259285,19,A memory benchmarking and analysis tool for CPython development,10,2705,R_kgDOO_pMVQ,2025-06-21T21:12:24Z,2026-08-27T10:32:22Z
+python-docs-sv,1037538655,2,Sweedish Translation of the Python Documentation,2,32104,R_kgDOPdeVXw,2025-08-13T18:16:02Z,2026-08-27T10:32:45Z
+prebuilt-cpython,1075604713,33,Repository for discussing/planning prebuilt binaries of CPython,12,61,R_kgDOQBxs6Q,2025-10-13T18:18:24Z,2026-11-09T18:32:11Z
+library-fuzzers,1098149642,7,"Fuzzer definitions, seed corpora and dictionaries to fuzz-test the stdlib",12,29695,R_kgDOQXRvCg,2025-11-17T10:16:26Z,2026-11-05T08:14:41Z
+python-insider-blog,1156848641,32,,15,11667,R_kgDORPQcAQ,2026-02-13T05:49:21Z,2026-11-10T22:07:19Z
+python-docs-pa,1266055386,6,Punjabi (India) translation of the Python Documentation.,5,9365,R_kgDOS3Z42g,2026-06-11T09:35:22Z,2026-11-12T20:26:41Z
+python-docs-de,1361702516,1,German translation of the Python Documentation,3,43051,R_kgDOUSnudA,2026-09-08T17:28:15Z,2026-11-09T06:05:29Z
+turtle-translations,1367449019,2,Translations of the docstrings of Python's 'turtle' module.,3,219,R_kgDOUYGduw,2026-09-12T15:57:14Z,2026-10-17T23:04:04Z
+packaging-council,1376359880,6,Public Records from the Python Packaging Council,5,23,R_kgDOUgmVyA,2026-09-18T19:40:04Z,2026-11-20T18:46:36Z
